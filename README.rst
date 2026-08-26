@@ -1,3 +1,15 @@
+.. image:: https://img.shields.io/badge/SONOXO%20FORK-LEARNING%20LAB-7c3aed?style=for-the-badge
+   :alt: Sonoxo fork — learning lab
+
+Sonoxo fork status
+==================
+
+This repository is a learning-lab fork of `palantir/python-language-server <https://github.com/palantir/python-language-server>`_. The underlying project, product name, documentation, code, trademarks, and license belong to their upstream maintainers and contributors. Sonoxo did not author or endorse the upstream project. Check upstream before relying on this fork for releases, security updates, support, or current documentation.
+
+**Upstream README begins below unchanged.**
+
+----
+
 Python Language Server
 ======================
 
